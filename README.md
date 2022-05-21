@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoseapero
 - 👀 I’m interested in UI UX Design
-- 🌱 I’m currently learning Javascript language
-- 📫 you can visit my instagram @yoseaperoo
+- 🌱 I’m currently learning Javascript & Magento 2
+- 📫 you can visit my Linkedin Yose Apero
 
 <!---
 yoseapero/yoseapero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
